@@ -9,3 +9,4 @@ test-ledger
 Cargo.lock
 yarn.lock
 package-lock.json
+output.json
